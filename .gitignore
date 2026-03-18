@@ -6,8 +6,4 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Add more patterns here:
-# - Virtual environment: .venv/
-# - Data files: *.csv, *.parquet, *.xlsx, data/raw/
-# - Secrets: .env
-# - OS artifacts: .DS_Store
+.venv/
