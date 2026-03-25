@@ -1,9 +1,9 @@
-# Python
 __pycache__/
-*.pyc
-*.pyo
-
-# Jupyter
 .ipynb_checkpoints/
-
 .venv/
+.env
+*.csv
+*.parquet
+*.xlsx
+data/raw/
+.DS_Store
